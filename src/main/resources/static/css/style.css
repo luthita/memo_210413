@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+
+#wrap{width:1200px; margin:auto;}
+
+header{height:100px; }
+header .logo{width:300px;}
+header .login-info{width:900px;}
+
+.contents{height:500px;}
+
+footer{height: 100px;}
+
+.sign-up-box {width:550px;}
